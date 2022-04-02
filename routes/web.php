@@ -24,6 +24,10 @@ Route::get('/register', function () {
     return view('register.index');
 });
 
+Route::get('/post', function () {
+    return view('post.index');
+});
+
 
 
 
