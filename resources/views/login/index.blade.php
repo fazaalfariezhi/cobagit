@@ -12,8 +12,8 @@
 </head>
 <body>
     <div class="container mt-5">
-        <div class="row">
-            <div class="col">
+        <div class="row justify-content-center">
+            <div class="col-md-7">
                 <div class="card">
                     <div class="card-header text-center">
                         <h1>Form Login</h1>
