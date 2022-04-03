@@ -24,6 +24,14 @@ Route::get('/register', function () {
     return view('register.index');
 });
 
+Route::get('/about', function () {
+    return view('about.index');
+});
+
+Route::get('/post', function () {
+    return view('post.index');
+});
+
 
 
 
